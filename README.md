@@ -46,13 +46,13 @@ When there is no crying:
 - Responds in real-time with feedback on LCD + LED
 
 ###  Code Screenshot
-![Code Screenshot](code.jpg)
+![Code Screenshot](code.JPG)
 
 ---
 
 ## 🔧 Circuit Diagram
 
-![Circuit Diagram](circuit.jpg)
+![Circuit Diagram](circuit.JPG)
 
 ---
 
